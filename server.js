@@ -10,7 +10,7 @@ const HOST = '0.0.0.0'
 //app
 
 //const express = require("express");
-const winston = require('winston');ç
+const winston = require('winston');
 
 const app = express();
 const port = process.env.PORT || 3040;
